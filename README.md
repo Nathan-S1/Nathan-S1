@@ -40,10 +40,43 @@ Developed autonomous robot navigation systems, including:
 
 ---
 
-## 🌐 Client Work
+## 💼 Work Experience
 
-### [ABC Smog & DMV Registration](https://www.abcsmogdmvregistration.com)  
-Designed and launched a professional website using Google Sites for a California-based smog inspection and DMV service. Collaborated with the client to structure service info, contact details, and maps for a clear and responsive experience.
+### **HyperiaGames** — *Remote*  
+**Unity Game Developer / Programmer**  
+*September 2025 – Present*  
+- Develop and maintain gameplay scripts in C# and C++, implementing core mechanics and refining player interactions.  
+- Integrate AI systems into gameplay, improving character behavior and responsiveness.  
+- Design and implement UI elements (menus, HUDs, player interactions), ensuring intuitive and visually consistent player experiences.  
+- Contribute to client-side networking features, supporting smoother online gameplay and player connectivity.  
+- Collaborate with designers, artists, and programmers to integrate assets, debug issues, and optimize performance across builds.  
+- Create and design custom 2D and 3D player objects, props, and level designs.  
+
+---
+
+### **HP** — *San Diego, CA*  
+**Computing Representative**  
+*May 2025 – Present*  
+- Advise customers on HP desktops, laptops, AIOs, and printers based on their specific use cases and technical needs.  
+- Migrate approximately 300 users per month from Windows XP–10 to Windows 11.  
+- Deliver in-depth product demonstrations, highlighting performance features, software compatibility, and hardware specifications.  
+- Collaborate with team members to ensure excellent customer service.  
+- Assist in troubleshooting device issues and guiding customers on setup and maintenance.  
+
+---
+
+### **ABC Smog** — *San Diego, CA*  
+**Technician & IT Specialist**  
+*May 2023 – May 2025*  
+- Developed and maintained computer systems, enhancing performance and reliability for both internal and client needs.  
+- Reviewed, tested, and purchased all software, Windows services, hardware, and accessories within budget guidelines.  
+- Supported end users running macOS, including Active Directory administration.  
+- Diagnosed car systems and conducted vehicle testing for state compliance.  
+- Managed digital and physical documentation for vehicle registrations and transactions.  
+- Utilized design software to create and implement business marketing materials.  
+- Installed and managed office technology, including printers and network systems.  
+- Provided end-user management and technical support, ensuring smooth daily operations.  
+
 
 ---
 
