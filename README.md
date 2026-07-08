@@ -65,15 +65,13 @@ Developed autonomous robot navigation systems, including:
 
 ---
 
-### **ABC Smog** — *San Diego, CA*  
-**Technician & IT Specialist**  
-*May 2023 – May 2025*  
-- Developed and maintained computer systems, enhancing performance and reliability for both internal and client needs.  
-- Reviewed, tested, and purchased all software, Windows services, hardware, and accessories within budget guidelines.  
-- Supported end users running macOS, including Active Directory administration.  
-- Diagnosed car systems and conducted vehicle testing for state compliance.  
-- Managed digital and physical documentation for vehicle registrations and transactions.  
-- Utilized design software to create and implement business marketing materials.  
+### **North County Eye Center** — *San Marcos, CA*  
+**IT Manager**  
+*Decemeber 2025 – Present*  
+- Developed and maintained computer systems, enhancing performance and reliability for both internal and external needs.  
+- Monitor and oversee technician machines during issues that arise during normal work hours.  
+- Setup new computer for Optical testing use and remote access.  
+- Collaborate with technicians to resolve any issues that arise with their workstations.  
 - Installed and managed office technology, including printers and network systems.  
 - Provided end-user management and technical support, ensuring smooth daily operations.  
 
@@ -83,7 +81,11 @@ Developed autonomous robot navigation systems, including:
 ## 📚 Education
 
 **B.S. in Computer Science**  
-San Diego State University – *Graduating Dec 2024*
+San Diego State University – *December 2024*
+Cyber Security Professional - *March 2025*
+
+**Master Degree in Computer Science**  
+Georgia Tech – *Graduating August 2026*
 
 ---
 
