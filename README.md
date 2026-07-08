@@ -67,7 +67,7 @@ Developed autonomous robot navigation systems, including:
 
 ### **North County Eye Center** — *San Marcos, CA*  
 **IT Manager**  
-*Decemeber 2025 – Present*  
+*December 2025 – Present*  
 - Developed and maintained computer systems, enhancing performance and reliability for both internal and external needs.  
 - Monitor and oversee technician machines during issues that arise during normal work hours.  
 - Setup new computer for Optical testing use and remote access.  
@@ -84,7 +84,7 @@ Developed autonomous robot navigation systems, including:
 San Diego State University – *December 2024*
 Cyber Security Professional - *March 2025*
 
-**Master Degree in Computer Science**  
+**Master's Degree in Computer Science**  
 Georgia Tech – *Graduating August 2026*
 
 ---
